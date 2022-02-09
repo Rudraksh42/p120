@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    background-color: black;
+    color: #ffffff;
+    border-color: white;
+    border-width: 5px;
+    border-style: dashed;
+}
+#wand, #c, #s, #ship{
+    border-color: red;
+    border-width: 10px;
+    border-style: double;
+}
+
+
